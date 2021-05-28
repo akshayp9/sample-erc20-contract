@@ -1,2 +1,2 @@
-# sample-erc20-contract
+# ERC20 Smart Contract
 ERC20 Mintable Token Contract
